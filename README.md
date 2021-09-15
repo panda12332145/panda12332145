@@ -11,7 +11,7 @@
   <img align="center" alt="Panda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Panda-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Panda-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="right" alt="Panda-animation" src="https://cdn.discordapp.com/attachments/718787284974960663/883432416574857226/Github7.gif">
+  <img height="300em" align="right" alt="Panda-animation" src="https://cdn.discordapp.com/attachments/718787284974960663/883432416574857226/Github7.gif">
 </div>
   
   ##
