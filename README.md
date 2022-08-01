@@ -5,7 +5,7 @@
 </div>
 
 <a>
-- Eu sei programar em HTML5 e CSS, Python pretendo aprender programar em C#, JavaScript, Ruby e Lua.
+- Eu sei programar em HTML5 e CSS, Python pretendo aprender programar em C#, JavaScript, Ruby, Lua e assembly.
 </a>
 
 <div style="display: inline_block"><br>
