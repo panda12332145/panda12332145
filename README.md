@@ -5,14 +5,14 @@
 </div>
 
 <a>
-- Eu sei programar em HTML5 e CSS, Python pretendo aprender programar em C#, JavaScript, Ruby, Lua e assembly.
+- Eu sei programar em HTML5 e CSS, Python. JavaScript pretendo aprender programar em C, Ruby, Lua e assembly.
 </a>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Panda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Panda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Panda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Panda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Panda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Panda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Panda-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Panda-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   <img height="300em" align="right" alt="Panda-animation" src="https://cdn.discordapp.com/attachments/718787284974960663/883432416574857226/Github7.gif">
