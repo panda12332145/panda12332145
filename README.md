@@ -1,11 +1,23 @@
 ### Heyo! Eu sou o Panda e esse é meu perfil espero que goste 
- <div>
+## 📈 Stats
+
+<p align="center">
   <a href="https://github.com/panda12332145">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=panda12332145&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panda12332145" alt="Minhas linguagens mais utilizadas"/>
+</p>
+
+<div align="center">
+  <a href="mailto:athosfrog@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/Linkedin-0672bf?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </div>
 
 <a>
 - Eu sei programar em HTML5 e CSS, Python. JavaScript pretendo aprender programar em C, Ruby, Lua e assembly.
+- Estudo Segurança da informação e hacking/Pentest, amante de rpg e MUD e viciado em Fisica teorica
 </a>
 
 <div style="display: inline_block"><br>
