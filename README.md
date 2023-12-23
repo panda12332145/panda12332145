@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panda1233214" alt="Minhas linguagens mais utilizadas"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panda12332145" alt="Minhas linguagens mais utilizadas"/>
 </p>
 
 <div align="center">
