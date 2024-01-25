@@ -16,7 +16,7 @@
 </div>
 
 <a>
-- Eu sei programar em HTML5 e CSS, Python. JavaScript pretendo aprender programar em C, Ruby, Lua e assembly.
+- Eu sei programar em HTML5 e CSS, Python. JavaScript(Basico KKK), Powershell pretendo aprender programar em C++, Ruby, Lua e assembly, Pascal, ShellScript, PHP.
 - Estudo Segurança da informação e hacking/Pentest, amante de rpg e MUD e viciado em Fisica teorica
 </a>
 
