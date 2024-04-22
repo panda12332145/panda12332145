@@ -37,6 +37,11 @@
 ![Batch & ShellScript](https://img.shields.io/badge/-ShellScript&BatchScript-0D1117?style=for-the-badge&logo=gnu-bash&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
+### Operating Systems:
+
+![ParrotOs](https://img.shields.io/badge/Parrot_Os-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Panda-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Panda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
