@@ -17,7 +17,8 @@
 <img src="https://komarev.com/ghpvc/?username=panda12332145&color=ff69b4&style=flat">
 <br>
 </div>
-  <p style="font-size: 0.9em;">Para ouvir a estação de radio da UDR, <a href="https://zeno.fm/player/udr-all-discography-music-radio-web" target="_blank">clique aqui</a>.</p>
+  <!--<p style="font-size: 0.9em;">Para ouvir a estação de radio da UDR, <a href="https://zeno.fm/player/udr-all-discography-music-radio-web" target="_blank">clique aqui</a>.</p>-->
+  <p style="font-size: 0.9em;">Para ouvir Lofi, <a href="https://open.spotify.com/embed/playlist/0sKK9n4LJXjEErNyoZEvcK?utm_source=generator" target="_blank">clique aqui</a>.</p>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
