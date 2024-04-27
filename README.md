@@ -17,12 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=panda12332145&color=ff69b4&style=flat">
 <br>
 </div>
-<div align="center">
-  <audio controls style="width: 100%;">
-    <source src="https://zeno.fm/player/udr-all-discography-music-radio-web" type="audio/mpeg">
-    Seu navegador não suporta o elemento de áudio.
-  </audio>
-  <p style="font-size: 0.9em;">Para ouvir a estação, <a href="https://zeno.fm/" target="_blank">clique aqui</a>.</p>
+  <p style="font-size: 0.9em;">Para ouvir a estação de radio da UDR, <a href="https://zeno.fm/player/udr-all-discography-music-radio-web" target="_blank">clique aqui</a>.</p>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
