@@ -31,7 +31,7 @@
 
 <h3>🌟 GeostationaryOrbit:</h3>
 <h4 align="left">A órbita geoestacionária 🌍 é uma órbita circular a cerca de 35.786 km 🚀 da Terra 🌐, onde o satélite 🛰️ se move com a mesma velocidade angular de rotação do planeta 🌪️. Isso faz com que o satélite pareça ficar fixo sobre um ponto específico da superfície 🌞. É usada em satélites de comunicação 📞, meteorologia 🌧️ e outros serviços que necessitam de cobertura constante 🌈. </h4>
-<a href="https://samy.pl"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg" width="50%" height="50%"></a> 
+<a href="https://www.instagram.com/01pandal10/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg" width="50%" height="50%"></a> 
 
   <h3>🌟 Reach Me on:</h3>
 
@@ -109,6 +109,7 @@
 ### social media
 <div> 
   <a href="https://www.instagram.com/01pandal10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@X86BinaryGhost" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" target="_blank"></a>
  <a href="https://discord.gg/p" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://twitter.com/Panda1233212?s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <p align="center"> <a href="https://x.com/Panda1233212" target="blank"><img src="https://img.shields.io/twitter/follow/easyaspython?label=Follow&style=social" alt="" /></a> </p>
