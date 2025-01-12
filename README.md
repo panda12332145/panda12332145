@@ -55,7 +55,7 @@
 
 <h3>🌟 Contaminated Machines Map by Tux Project:</h3>
 <a href="https://map-of-machines-infected-by-my-tuxpj.netlify.app/">
-  <img src="https://github.com/panda12332145/panda12332145/blob/main/map.png" alt="Contaminated Machines Map" width="100%" height="100%" style="width:auto; height:auto"/>
+  <img src="https://github.com/panda12332145/panda12332145/blob/main/Map.png" alt="Contaminated Machines Map" width="100%" height="100%" style="width:auto; height:auto"/>
 </a>
 
 <p align="center">
