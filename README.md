@@ -12,9 +12,10 @@
 
 
   <!--<p style="font-size: 0.9em;">Para ouvir a estação de radio da UDR, <a href="https://zeno.fm/player/udr-all-discography-music-radio-web" target="_blank">clique aqui</a>.</p>-->
-  <p style="font-size: 0.9em;">Para ouvir Lofi, <a href="https://open.spotify.com/embed/playlist/0sKK9n4LJXjEErNyoZEvcK?utm_source=generator" target="_blank">clique aqui</a>.</p>
-</div>
+  <!--<p style="font-size: 0.9em;">Para ouvir Lofi, <a href="https://open.spotify.com/embed/playlist/0sKK9n4LJXjEErNyoZEvcK?utm_source=generator" target="_blank">clique aqui</a>.</p>
+</div>-->
 
+[![Spotify](https://novatorem-one-pi.vercel.app/api/spotify)](https://open.spotify.com/user/panda123321)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
 
@@ -53,7 +54,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=panda12332145&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3>🌟 Contaminated Machines Map by Tux Project:</h3>
+<h3>💻 Contaminated Machines Map by Tux Project: 🦠</h3>
 <a href="https://map-of-machines-infected-by-my-tuxpj.netlify.app/">
   <img src="https://github.com/panda12332145/panda12332145/blob/main/Map.png" alt="Contaminated Machines Map" width="100%" height="100%" style="width:auto; height:auto"/>
 </a>
