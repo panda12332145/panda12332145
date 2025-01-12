@@ -23,7 +23,7 @@
 <img src="https://komarev.com/ghpvc/?username=panda12332145&color=ff69b4&style=flat">
 <br>
 </div>
-<img align="right" alt="coding-gif" width="300" src="https://github.com/panda12332145/panda12332145/blob/main/coding.gif">
+<img align="right" alt="coding-gif" width="400" height="250" src="https://github.com/panda12332145/panda12332145/blob/main/coding.gif">
 <a>
 - Como estudante de cibersegurança, iniciei meu percurso no mundo da programação aos oito anos de idade. Desde então, dediquei-me ao estudo de diversas linguagens, incluindo HTML, CSS, JavaScript, Powershell, Lua, Ruby, Assembly x86, Pascal, ShellScript, PHP, Python, BatchScript e COBOL. Minha paixão pela cibersegurança e hacking me levou a explorar não apenas a programação, mas também a física teórica. Sou entusiasta de desafios como CTF (Capture The Flag) e mergulho no mundo da fantasia através de RPG de mesa, como o D&D. Além disso, tenho um apreço especial por MUD (Multi-User Dungeon). Atualmente, concentro meus esforços no estudo da engenharia reversa de malwares. Possuo proficiência em C++, PHP, Powershell e ShellScript, buscando constantemente aprimorar minhas habilidades e conhecimentos nesses domínios.
 </a>
