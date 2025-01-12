@@ -1,5 +1,5 @@
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+<a href="https://github.com/panda12332145/panda12332145/blob/main/sak.gif">
+  <img src="https://github.com/panda12332145/panda12332145/blob/main/sak.gif" alt="Sak GIF" style="width:auto; height:auto"/>
 </a>
 
 
@@ -23,7 +23,7 @@
 <img src="https://komarev.com/ghpvc/?username=panda12332145&color=ff69b4&style=flat">
 <br>
 </div>
-<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+<img align="right" alt="coding-gif" width="300" src="https://github.com/panda12332145/panda12332145/blob/main/coding.gif">
 <a>
 - Como estudante de cibersegurança, iniciei meu percurso no mundo da programação aos oito anos de idade. Desde então, dediquei-me ao estudo de diversas linguagens, incluindo HTML, CSS, JavaScript, Powershell, Lua, Ruby, Assembly x86, Pascal, ShellScript, PHP, Python, BatchScript e COBOL. Minha paixão pela cibersegurança e hacking me levou a explorar não apenas a programação, mas também a física teórica. Sou entusiasta de desafios como CTF (Capture The Flag) e mergulho no mundo da fantasia através de RPG de mesa, como o D&D. Além disso, tenho um apreço especial por MUD (Multi-User Dungeon). Atualmente, concentro meus esforços no estudo da engenharia reversa de malwares. Possuo proficiência em C++, PHP, Powershell e ShellScript, buscando constantemente aprimorar minhas habilidades e conhecimentos nesses domínios.
 </a>
@@ -115,7 +115,9 @@
 
 ![Snake animation](https://github.com/panda12332145/panda12332145/blob/output/github-contribution-grid-snake.svg)
 
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+<a href="https://github.com/panda12332145/panda12332145/blob/main/water.gif">
+  <img src="https://github.com/panda12332145/panda12332145/blob/main/water.gif" alt="Sak GIF" width="100%" height="100%" style="width:auto; height:auto"/>
+</a>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.5/>
  
 </div>
