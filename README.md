@@ -53,6 +53,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=panda12332145&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<h3>🌟 Contaminated Machines Map by Tux Project:</h3>
+<a href="https://map-of-machines-infected-by-my-tuxpj.netlify.app/">
+  <img src="https://github.com/panda12332145/panda12332145/blob/main/map.png" alt="Contaminated Machines Map" width="100%" height="100%" style="width:auto; height:auto"/>
+</a>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=panda12332145&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
