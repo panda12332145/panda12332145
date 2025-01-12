@@ -114,6 +114,9 @@
 </h1>
 
 ![Snake animation](https://github.com/panda12332145/panda12332145/blob/output/github-contribution-grid-snake.svg)
+<iframe src="https://map-of-machines-infected-by-my-tuxpj.netlify.app/" width="600" height="400"></iframe>
+![Mini Tela do Meu Site](https://map-of-machines-infected-by-my-tuxpj.netlify.app)
+
 
 <a href="https://github.com/panda12332145/panda12332145/blob/main/water.gif">
   <img src="https://github.com/panda12332145/panda12332145/blob/main/water.gif" alt="Sak GIF" width="100%" height="100%" style="width:auto; height:auto"/>
