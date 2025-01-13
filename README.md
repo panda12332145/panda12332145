@@ -1,5 +1,5 @@
 <a href="https://github.com/panda12332145/panda12332145/blob/main/dlo.gif">
-  <img src="https://raw.githubusercontent.com/panda12332145/panda12332145/main/dlo.gif" alt="Dlo GIF" style="width:auto; height:50%"/>
+  <img src="https://raw.githubusercontent.com/panda12332145/panda12332145/main/dlo.gif" alt="Dlo GIF" width="100%" height="50%"/>
 </a>
 
 <center>
