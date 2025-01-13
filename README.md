@@ -1,5 +1,5 @@
-<a href="https://github.com/panda12332145/panda12332145/blob/main/sak.gif">
-  <img src="https://github.com/panda12332145/panda12332145/blob/main/sak.gif" alt="Sak GIF" style="width:auto; height:auto"/>
+<a href="https://github.com/panda12332145/panda12332145/blob/main/dlo.gif">
+  <img src="https://github.com/panda12332145/panda12332145/blob/main/dlo.gif" alt="Dlo GIF" style="width:auto; height:auto"/>
 </a>
 
 
@@ -123,8 +123,8 @@
 ![Snake animation](https://github.com/panda12332145/panda12332145/blob/output/github-contribution-grid-snake.svg)
 
 
-<a href="https://github.com/panda12332145/panda12332145/blob/main/water.gif">
-  <img src="https://github.com/panda12332145/panda12332145/blob/main/water.gif" alt="Sak GIF" width="100%" height="100%" style="width:auto; height:auto"/>
+<a href="https://github.com/panda12332145/panda12332145/blob/main/sak.gif">
+  <img src="https://github.com/panda12332145/panda12332145/blob/main/sak.gif" alt="Sak GIF" width="100%" height="100%" style="width:auto; height:auto"/>
 </a>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.5/>
  
