@@ -8,7 +8,7 @@
   </a>
 </center>
 <h4 align="left">🌟Atualmente, estou cursando Ciência da Computação na PUCMG, onde aprofundo meus conhecimentos em áreas como cibersegurança, redes e programação. Além dos estudos acadêmicos, estou constantemente aprimorando minhas habilidades em hacking ético, engenharia reversa e sistemas de segurança. Meu objetivo é me tornar um especialista na área, focando em contribuir para a pesquisa e inovação tecnológica. Busco uma base sólida para alcançar a excelência no meu campo e conquistar independência financeira. 💻🔐💸.
-   💕💍larii.dourado_s2. </h4>
+<br>💕💍larii.dourado_s2. </h4>
 
 
   <!--<p style="font-size: 0.9em;">Para ouvir a estação de radio da UDR, <a href="https://zeno.fm/player/udr-all-discography-music-radio-web" target="_blank">clique aqui</a>.</p>-->
