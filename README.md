@@ -7,7 +7,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FF00FF&vCenter=true&random=false&width=620&lines=Heyo!+I+am+Panda;and+this+is+my+profile+I+hope+you+like+it;I'm+from+Brazil%2C+(MG%2FBH);I'm+a+Computer+Science+student;with+a+postgraduate+degree+in+Cybersecurity%2FHacking;and+student+of+theoretical+physics;I'm+18+years+old;My+beautiful+girlfriend%3A+larii.dourado_s2" alt="Typing SVG" />
   </a>
 </center>
-<h4 align="left">🌟Atualmente, estou cursando Ciência da Computação na PUCMG, onde aprofundo meus conhecimentos em áreas como cibersegurança, redes e programação. Além dos estudos acadêmicos, estou constantemente aprimorando minhas habilidades em hacking ético, engenharia reversa e sistemas de segurança. Meu objetivo é me tornar um especialista na área, focando em contribuir para a pesquisa e inovação tecnológica. Busco uma base sólida para alcançar a excelência no meu campo e conquistar independência financeira. 💻🔐💸. </h4>
+<h4 align="left">🌟Atualmente, estou cursando Ciência da Computação na PUCMG, onde aprofundo meus conhecimentos em áreas como cibersegurança, redes e programação. Além dos estudos acadêmicos, estou constantemente aprimorando minhas habilidades em hacking ético, engenharia reversa e sistemas de segurança. Meu objetivo é me tornar um especialista na área, focando em contribuir para a pesquisa e inovação tecnológica. Busco uma base sólida para alcançar a excelência no meu campo e conquistar independência financeira. 💻🔐💸.
+💕💍larii.dourado_s2. </h4>
 
 
   <!--<p style="font-size: 0.9em;">Para ouvir a estação de radio da UDR, <a href="https://zeno.fm/player/udr-all-discography-music-radio-web" target="_blank">clique aqui</a>.</p>-->
