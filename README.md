@@ -17,7 +17,7 @@
   <!--<p style="font-size: 0.9em;">Para ouvir Lofi, <a href="https://open.spotify.com/embed/playlist/0sKK9n4LJXjEErNyoZEvcK?utm_source=generator" target="_blank">clique aqui</a>.</p>
 </div>-->
 
-[![Spotify](https://novatorem-one-pi.vercel.app/api/spotify)](https://open.spotify.com/user/panda123321)
+[![Spotify](https://novatorem-one-pi.vercel.app/api/spotify)](https://open.spotify.com/user/31m7o7sfwke6wl3hwxseirk4ffmy)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
 
