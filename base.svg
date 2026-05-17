@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="380"
+     viewBox="0 0 1200 300">
+
+    <!-- CLIP -->
+    <defs>
+
+        <clipPath id="roundedClip">
+
+            <rect x="10"
+                  y="10"
+                  width="900"
+                  height="380"
+                  rx="40"
+                  ry="40"/>
+
+        </clipPath>
+
+    </defs>
+
+    <!-- FUNDO -->
+    <rect x="10"
+          y="10"
+          width="900"
+          height="380"
+          rx="40"
+          fill="#0d1117"/>
+
+    <!-- GIF -->
+    <image
+        href="https://raw.githubusercontent.com/panda12332145/panda12332145/main/badget_love%20(1).gif"
+
+        x="10"
+        y="10"
+
+        width="900"
+        height="380"
+
+        preserveAspectRatio="none"
+
+        clip-path="url(#roundedClip)"
+    />
+
+    <!-- BORDA -->
+    <rect x="10"
+          y="10"
+          width="900"
+          height="380"
+          rx="40"
+          fill="none"
+          stroke="#00ff88"
+          stroke-width="4"/>
+
+</svg>
