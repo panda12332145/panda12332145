@@ -11,6 +11,32 @@
 <br> </h4>
 
 [💕💍larii.dourado_s2.](https://i-love-u-my-proton.netlify.app/)
+<p align="left">
+  <a href="https://www.google.com">
+    <img src="https://github.com/panda12332145/panda12332145/blob/main/badget_love%20(1).gif?raw=true" alt="Dlo GIF" width="300px"/>
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--<p3 Start-Process calc.exe </a>.</p>-->
 
   <!--<p style="font-size: 0.9em;">Para ouvir a estação de radio da UDR, <a href="https://zeno.fm/player/udr-all-discography-music-radio-web" target="_blank">clique aqui</a>.</p>-->
