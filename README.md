@@ -10,31 +10,9 @@
 <h4 align="left">🌟Atualmente, estou cursando Análise e Desenvolvimento de Sistemas Estácio, onde aprofundo meus conhecimentos em áreas como cibersegurança, redes e programação. Além dos estudos acadêmicos, estou constantemente aprimorando minhas habilidades em hacking ético, engenharia reversa e sistemas de segurança. Meu objetivo é me tornar um especialista na área, focando em contribuir para a pesquisa e inovação tecnológica. Busco uma base sólida para alcançar a excelência no meu campo e conquistar independência financeira. 💻🔐💸.
 <br> </h4>
 
-[💕💍larii.dourado_s2.](https://i-love-u-my-proton.netlify.app/)
-<p align="left">
-  <a href="https://www.google.com">
-    <img src="https://github.com/panda12332145/panda12332145/blob/main/badget_love%20(1).gif?raw=true" alt="Dlo GIF" width="300px"/>
-  </a>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<a href="https://i-love-u-my-proton.netlify.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/panda12332145/panda12332145/main/base.svg" alt="Dlo GIF" width="500px"/>
+</a>
 
 
 <!--<p3 Start-Process calc.exe </a>.</p>-->
