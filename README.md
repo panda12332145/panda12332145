@@ -11,7 +11,7 @@
 <br> </h4>
 
 <a href="https://i-love-u-my-proton.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/panda12332145/panda12332145/main/base.svg" alt="Dlo GIF" width="500px"/>
+    <img src="https://raw.githubusercontent.com/panda12332145/panda12332145/main/base.svg" alt="Dlo GIF" width="400px"/>
 </a>
 
 
