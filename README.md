@@ -272,7 +272,7 @@ Como estudante de cibersegurança, iniciei meu percurso no mundo da programaçã
 | Malware Analysis     | Ghidra • IDA Pro • PEStudio • Detect It Easy • Process Hacker • Procmon • Process Explorer                                       |
 | Networking           | TCP/IP • DNS • DHCP • Routing • Switching • VLAN • VPN • Cisco IOS                                                               |
 | Databases            | MySQL • PostgreSQL • SQLite • MongoDB                                                                                            |
-| Operating Systems    | Windows • Kali Linux • Debian • Ubuntu • Parrot OS • Raspberry Pi OS                                                             |
+| Operating Systems    | Windows • Kali Linux • Debian • Ubuntu • Parrot OS • Raspberry Pi OS • EndeavourOS                                               |
 | DevOps               | Docker • Git • GitHub • VMware • VirtualBox                                                                                      |
 | Hardware             | Arduino • Raspberry Pi • Computer Maintenance                                                                                    |
 | Scientific Computing | SciPy • TensorFlow                                                                                                               |
