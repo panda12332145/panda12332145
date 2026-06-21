@@ -380,5 +380,5 @@ Como estudante de cibersegurança, iniciei meu percurso no mundo da programaçã
 ---
 
 <div align="center">
-  <sub>Built with 💜 by Athos Dã Boanergis | Cybersecurity Enthusiast & Developer</sub>
+  <sub>Built with 💜 by Athos Dã | Cybersecurity Enthusiast & Developer</sub>
 </div>
