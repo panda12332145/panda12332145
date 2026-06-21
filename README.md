@@ -2,11 +2,23 @@
   <img src="https://raw.githubusercontent.com/panda12332145/panda12332145/main/dlo.gif" alt="Dlo GIF" width="100%" height="50%"/>
 </a>
 
-<center>
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FF00FF&vCenter=true&random=false&width=620&lines=Heyo!+I+am+Panda;and+this+is+my+profile+I+hope+you+like+it;I'm+from+Brazil%2C+(MG%2FBH);I'm+a+Computer+Science+student;with+a+postgraduate+degree+in+Cybersecurity%2FHacking;and+student+of+theoretical+physics;I'm+20+years+old;My+beautiful+girlfriend%3A+larii.dourado_s2" alt="Typing SVG" />
   </a>
-</center>
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athos-dã)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athos.cybersec@gmail.com)
+[![Email Alternativo](https://img.shields.io/badge/Email_Alt-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athosfrog@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/panda12332145)
+
+</div>
+
+---
+
 <h4 align="left">🌟Atualmente, estou cursando Análise e Desenvolvimento de Sistemas Estácio, onde aprofundo meus conhecimentos em áreas como cibersegurança, redes e programação. Além dos estudos acadêmicos, estou constantemente aprimorando minhas habilidades em hacking ético, engenharia reversa e sistemas de segurança. Meu objetivo é me tornar um especialista na área, focando em contribuir para a pesquisa e inovação tecnológica. Busco uma base sólida para alcançar a excelência no meu campo e conquistar independência financeira. 💻🔐💸.
 <br> </h4>
 
@@ -14,51 +26,268 @@
     <img src="https://raw.githubusercontent.com/panda12332145/panda12332145/main/base.svg" alt="Dlo GIF" width="300px"/>
 </a>
 
-
-<!--<p3 Start-Process calc.exe </a>.</p>-->
-
-  <!--<p style="font-size: 0.9em;">Para ouvir a estação de radio da UDR, <a href="https://zeno.fm/player/udr-all-discography-music-radio-web" target="_blank">clique aqui</a>.</p>-->
-  <!--<p style="font-size: 0.9em;">Para ouvir Lofi, <a href="https://open.spotify.com/embed/playlist/0sKK9n4LJXjEErNyoZEvcK?utm_source=generator" target="_blank">clique aqui</a>.</p>
-</div>-->
-
 [![Spotify](https://novatorem-one-pi.vercel.app/api/spotify)](https://open.spotify.com/user/31m7o7sfwke6wl3hwxseirk4ffmy)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
 
- <h2>🤙 a little about myself</h2>
- <div align="left">
+---
+
+## 🤙 A Little About Myself
+
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=panda12332145&color=ff69b4&style=flat">
 <br>
 </div>
+
 <img align="right" alt="coding-gif" width="400" height="250" src="https://github.com/panda12332145/panda12332145/blob/main/coding.gif">
-<a>
-- Como estudante de cibersegurança, iniciei meu percurso no mundo da programação aos oito anos de idade. Desde então, dediquei-me ao estudo de diversas linguagens, incluindo HTML, CSS, JavaScript, Powershell, Lua, Ruby, Assembly x86, Pascal, ShellScript, PHP, Python, BatchScript e COBOL. Minha paixão pela cibersegurança e hacking me levou a explorar não apenas a programação, mas também a física teórica. Sou entusiasta de desafios como CTF (Capture The Flag) e mergulho no mundo da fantasia através de RPG de mesa, como o D&D. Além disso, tenho um apreço especial por MUD (Multi-User Dungeon). Atualmente, concentro meus esforços no estudo da engenharia reversa de malwares. Possuo proficiência em C++, PHP, Powershell e ShellScript, buscando constantemente aprimorar minhas habilidades e conhecimentos nesses domínios.
-</a>
+
+Como estudante de cibersegurança, iniciei meu percurso no mundo da programação aos oito anos de idade. Desde então, dediquei-me ao estudo de diversas linguagens, incluindo HTML, CSS, JavaScript, Powershell, Lua, Assembly x86, Pascal, ShellScript, Python, BatchScript e COBOL. Minha paixão pela cibersegurança e hacking me levou a explorar não apenas a programação, mas também a física teórica. Sou entusiasta de desafios como CTF (Capture The Flag) e mergulho no mundo da fantasia através de RPG de mesa, como o D&D. Além disso, tenho um apreço especial por MUD (Multi-User Dungeon). Atualmente, concentro meus esforços no estudo da engenharia reversa de malwares. Possuo proficiência em C++, Powershell e ShellScript, buscando constantemente aprimorar minhas habilidades e conhecimentos nesses domínios.
+
+<br clear="right"/>
+
+---
+
+## 📜 Certifications & Courses
+
+| Certification / Course | Status | Progress |
+|---|---|---|
+| 🎓 Análise e Desenvolvimento de Sistemas (Estácio) | 📖 Studying | ![](https://geps.dev/progress/20) |
+| 🌐 Cisco CCNA (200-301) | 📖 Studying | ![](https://geps.dev/progress/35) |
+| 🛡️ CompTIA Security+ (SY0-701) | 📋 Planned | ![](https://geps.dev/progress/5) |
+| 🔴 eJPT (eLearnSecurity) | 🎯 Next | ![](https://geps.dev/progress/0) |
+| 🔵 BTL1 (Blue Team Level 1) | 📋 Planned | ![](https://geps.dev/progress/0) |
+| ☁️ Microsoft SC-900 Security, Compliance & Identity Fundamentals | ✅ Certified | ![](https://geps.dev/progress/100) |
+| 🔐 SYCP | ✅ Certified | ![](https://geps.dev/progress/100) |
+| 🔐 CCEP | ✅ Certified | ![](https://geps.dev/progress/100) |
+| 🌐 SYWP | ✅ Certified | ![](https://geps.dev/progress/100) |
+| 📡 SYAP | ✅ Certified | ![](https://geps.dev/progress/100) |
+| 💻 DCPT | ✅ Certified | ![](https://geps.dev/progress/100) |
+| 🌍 PSWAE | ✅ Certified | ![](https://geps.dev/progress/100) |
+| 🔵 BTJA | ✅ Certified | ![](https://geps.dev/progress/100) |
+
+---
+## 🔬 Featured Projects
+
+<table>
+  <tr>
+    <td width="180">
+      <b>Tux Project - Malware Research</b>
+    </td>
+    <td>
+      Projeto de pesquisa em desenvolvimento de malware educacional e análise de segurança ofensiva. Implementa técnicas de persistência, evasão e C2 (Command and Control) para ambientes controlados de teste. Inclui mapa global de máquinas infectadas em ambiente de laboratório.<br>
+      <sub>Python, C++, PowerShell, Network Security, Reverse Engineering</sub>
+    </td>
+    <td align="center">
+      <a href="https://map-of-machines-infected-by-my-tuxpj.netlify.app/">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <b>ShadowNet Infostealer</b>
+    </td>
+    <td>
+      Malware Windows experimental para estudo de segurança ofensiva. Coleta credenciais, perfis Wi-Fi, arquivos e exfiltra dados via FTP. Implementa módulos de perturbação e automação usando apenas scripts nativos (BAT/VBScript). Arquitetura modular com persistência e exfiltração.<br>
+      <sub>Batchfile, VBScript, Windows Internals, Offensive Security</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/panda12332145/ShadowNetInfostealer">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <b>PandaOS</b>
+    </td>
+    <td>
+      Sistema operacional x86-64 desenvolvido 100% do zero. Inclui bootloader em múltiplos estágios, kernel, drivers, sistema de arquivos customizado (PandaFS) e escalonador. Escrito em Assembly x86-64, C++ e Pascal.<br>
+      <sub>Assembly x86, C++, Pascal, OS Development, Low-Level</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/panda12332145/PandaOS">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <b>Medusa Brute Force Lab</b>
+    </td>
+    <td>
+      Laboratório prático completo de pentesting focado em força bruta. Simulações controladas com Kali Linux, Medusa, Metasploitable 2 e DVWA. Documentação de FTP brute-force, SMB enumeration, password spraying e estratégias de mitigação.<br>
+      <sub>Kali Linux, Medusa, Metasploit, Nmap, Shell</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/panda12332145/Medusa-Brute-Force-Lab">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <b>CyberPando</b>
+    </td>
+    <td>
+      Ferramenta interativa em Python para conscientização de segurança digital em ambientes corporativos. Analisa links suspeitos, e-mails, dispositivos bootáveis desconhecidos e fornece orientações contra ransomware. Interface rica com Rich.<br>
+      <sub>Python, Rich, Requests, Cybersecurity Awareness</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/panda12332145/CyberPando">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <b>MAAPC - Hardware Analysis</b>
+    </td>
+    <td>
+      Módulo avançado para análise de processadores e hardware. Coleta dados em tempo real de CPU/GPU, temperatura, cache, instruções (SSE/AVX), virtualização e topologia. Integra física teórica com programação.<br>
+      <sub>Python, psutil, Hardware, Physics, Monitoring</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/panda12332145/MAAPC">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="right">
+  <a href="https://github.com/panda12332145?tab=repositories">
+    <b>→ Todos os repositórios</b>
+  </a>
+</p>
+
+---
 
 <h3>🌟 GeostationaryOrbit:</h3>
 <h4 align="left">A órbita geoestacionária 🌍 é uma órbita circular a cerca de 35.786 km 🚀 da Terra 🌐, onde o satélite 🛰️ se move com a mesma velocidade angular de rotação do planeta 🌪️. Isso faz com que o satélite pareça ficar fixo sobre um ponto específico da superfície 🌞. É usada em satélites de comunicação 📞, meteorologia 🌧️ e outros serviços que necessitam de cobertura constante 🌈. </h4>
 <a href="https://www.instagram.com/01pandal10/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg" width="50%" height="50%"></a> 
 
-  <h3>🌟 Reach Me on:</h3>
+---
+## 🛠 Core Toolkit
+
+> Tecnologias, sistemas operacionais, linguagens de programação, frameworks e ferramentas utilizadas em meus estudos, pesquisas, laboratórios, engenharia reversa, desenvolvimento de malware, pentests e projetos de cibersegurança.
+
+---
 
 <div align="center">
-  <a href="mailto:athosfrog@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/Linkedin-0672bf?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
+### 💾 Programming Languages
+
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a> <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a> <a href="https://www.iso.org/standard/74528.html"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a> <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a> <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a> <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/></a> <a href="https://webassembly.org/"><img src="https://img.shields.io/badge/Assembly_x86-444444?style=for-the-badge&logo=assemblyscript&logoColor=white"/></a> <a href="https://www.freepascal.org/"><img src="https://img.shields.io/badge/Pascal-E3F171?style=for-the-badge&logo=delphi&logoColor=black"/></a> <a href="https://en.wikipedia.org/wiki/COBOL"><img src="https://img.shields.io/badge/COBOL-004B87?style=for-the-badge"/></a>
+
+<br>
+
+### 🖥️ Scripting & Automation
+
+<a href="https://learn.microsoft.com/powershell/"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/></a> <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/></a> <a href="https://en.wikipedia.org/wiki/Shell_script"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white"/></a> <a href="https://learn.microsoft.com/windows-server/administration/windows-commands/windows-commands"><img src="https://img.shields.io/badge/Batch_Script-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"/></a>
+
+<br>
+
+### 🌐 Web Technologies
+
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a> <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a> <a href="https://htmx.org/"><img src="https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white"/></a> <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></a> <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a> <a href="https://nginx.org/"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/></a> <a href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/></a>
+
+<br>
+
+### 🔴 Offensive Security
+
+<a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-0066CC?style=for-the-badge"/></a> <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp_Suite-F47F24?style=for-the-badge&logo=burpsuite&logoColor=white"/></a> <a href="https://www.zaproxy.org/"><img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/></a> <a href="https://sqlmap.org/"><img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge"/></a> <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/></a> <a href="https://github.com/ffuf/ffuf"><img src="https://img.shields.io/badge/ffuf-222222?style=for-the-badge"/></a> <a href="https://github.com/OJ/gobuster"><img src="https://img.shields.io/badge/Gobuster-444444?style=for-the-badge"/></a> <a href="https://hashcat.net/hashcat/"><img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge"/></a> <a href="https://www.openwall.com/john/"><img src="https://img.shields.io/badge/John_The_Ripper-555555?style=for-the-badge"/></a> <a href="https://www.aircrack-ng.org/"><img src="https://img.shields.io/badge/Aircrack--ng-2A6DB0?style=for-the-badge"/></a>
+
+<br>
+
+### 🔵 Defensive Security
+
+<a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/></a> <a href="https://suricata.io/"><img src="https://img.shields.io/badge/Suricata-EF820D?style=for-the-badge"/></a> <a href="https://www.snort.org/"><img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge"/></a> <a href="https://wazuh.com/"><img src="https://img.shields.io/badge/Wazuh-005EB8?style=for-the-badge"/></a> <a href="https://www.ossec.net/"><img src="https://img.shields.io/badge/OSSEC-444444?style=for-the-badge"/></a>
+
+<br>
+
+### 🔬 Reverse Engineering
+
+<a href="https://hex-rays.com/ida-pro"><img src="https://img.shields.io/badge/IDA_Pro-8B0000?style=for-the-badge"/></a> <a href="https://ghidra-sre.org/"><img src="https://img.shields.io/badge/Ghidra-C62828?style=for-the-badge"/></a> <a href="https://x64dbg.com/"><img src="https://img.shields.io/badge/x64dbg-333333?style=for-the-badge"/></a> <a href="https://rada.re/"><img src="https://img.shields.io/badge/radare2-7B68EE?style=for-the-badge"/></a> <a href="https://binary.ninja/"><img src="https://img.shields.io/badge/Binary_Ninja-F57C00?style=for-the-badge"/></a>
+
+<br>
+
+### 💾 Databases
+
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a> <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a> <a href="https://sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/></a> <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+
+<br>
+
+### ⚙️ DevOps & Virtualization
+
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a> <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a> <a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=virtualbox&logoColor=white"/></a> <a href="https://www.vmware.com/"><img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/></a>
+
+<br>
+
+### 🖥 Operating Systems
+
+<a href="https://www.microsoft.com/windows">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</a>
+
+<a href="https://www.kali.org/">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+</a>
+
+<a href="https://parrotsec.org/">
+  <img src="https://img.shields.io/badge/Parrot_OS-15D0E6?style=for-the-badge&logo=parrotsecurity&logoColor=white"/>
+</a>
+
+<a href="https://endeavouros.com/">
+  <img src="https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=endeavouros&logoColor=white"/>
+</a>
+
+<a href="https://ubuntu.com/server">
+  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</a>
+
+<a href="https://www.raspberrypi.com/software/">
+  <img src="https://img.shields.io/badge/Raspberry_Pi_OS-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+</a>
+
 </div>
 
+---
 
-<h2 align="center">📚 Languages & tools I Have placed My Hands On </h2>
+<details>
+<summary><b>📚 Complete Skill Matrix</b></summary>
 
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,sublime,vim,github,git,stackoverflow,atom,arduino,notion" /><br>
-    <img src="https://skillicons.dev/icons?i=windows,linux,kali,raspberrypi,debian,php,python,javascript,mysql,discord" /><br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,pwsh,photoshop,java,htmx,neovim" /><br>
-</div>
+| Area                 | Technologies                                                                                                                     |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Programming          | Python • C • C++ • Java • JavaScript • Lua • Pascal • COBOL • Assembly x86                                                       |
+| Web                  | HTML5 • CSS3 • JavaScript • HTMX • Laravel • Node.js • Apache • Nginx                                                            |
+| Offensive Security   | Burp Suite • Metasploit • SQLMap • OWASP ZAP • Hashcat • John the Ripper • Hydra • Aircrack-ng • Gobuster • ffuf • Nmap • Netcat |
+| Defensive Security   | Wireshark • Wazuh • Snort • Suricata • OSSEC • Fail2ban • UFW • iptables                                                         |
+| Reverse Engineering  | Ghidra • IDA Pro • x64dbg • Binary Ninja • Radare2 • OllyDbg                                                                     |
+| Malware Analysis     | Ghidra • IDA Pro • PEStudio • Detect It Easy • Process Hacker • Procmon • Process Explorer                                       |
+| Networking           | TCP/IP • DNS • DHCP • Routing • Switching • VLAN • VPN • Cisco IOS                                                               |
+| Databases            | MySQL • PostgreSQL • SQLite • MongoDB                                                                                            |
+| Operating Systems    | Windows • Kali Linux • Debian • Ubuntu • Parrot OS • Raspberry Pi OS                                                             |
+| DevOps               | Docker • Git • GitHub • VMware • VirtualBox                                                                                      |
+| Hardware             | Arduino • Raspberry Pi • Computer Maintenance                                                                                    |
+| Scientific Computing | SciPy • TensorFlow                                                                                                               |
+
+</details>
+
+---
 
 ## 📈 Stats
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=panda12332145&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=panda12332145&theme=dark&hide_border=false" />
+</div>
 
 <h3>💻 Contaminated Machines Map by Tux Project: 🦠</h3>
 <a href="https://map-of-machines-infected-by-my-tuxpj.netlify.app/">
@@ -69,68 +298,63 @@
   <img src="https://github-profile-trophy.vercel.app/?username=panda12332145&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-
-<div align="center">
-  <h2>💻 Tech Stack:</h2>
-     <br/>
-  <div align="center">
-   <img src="https://img.shields.io/badge/C-%23239120.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /> 
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  </div>
-  <div align="center"> 
-  </div>
-
-<br/>
-
-### Languages ​​I have proficiencies in:
-
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
-![Batch & ShellScript](https://img.shields.io/badge/-ShellScript&BatchScript-0D1117?style=for-the-badge&logo=gnu-bash&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
-
-
 | ![panda12332145 Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=panda12332145&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panda12332145&theme=dark) |
 | :-: | :-: |
 
-### Operating Systems:
+---
 
-![ParrotOs](https://img.shields.io/badge/Parrot_Os-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+## 🌐 Connect With Me
 
-<div src="https://cdn.discordapp.com/attachments/718787284974960663/883432416574857226/Github7.gif">
-</div>
-  
-  ##
-
-### social media
-<div> 
-  <a href="https://www.instagram.com/01pandal10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/@X86BinaryGhost" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" target="_blank"></a>
- <a href="https://discord.gg/p" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href="https://twitter.com/Panda1233212?s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<p align="center"> <a href="https://x.com/Panda1233212" target="blank"><img src="https://img.shields.io/twitter/follow/easyaspython?label=Follow&style=social" alt="" /></a> </p>
 <div align="center">
-<p align="center"> <a href="https://www.reddit.com/user/Panda_123321/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" target="blank"><img src="https://img.shields.io/badge/Chat_with_@Panda_123321--URL?style=social&logo=reddit&link=https%3A%2F%2Fwww.reddit.com%2Fchat%2Fuser_id%2Ft2_1091wg" alt="" /></a> </p>
-<div align="left">
+
+<a href="mailto:athos.cybersec@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/panda12332145">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Panda1233212">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/01pandal10">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@X86BinaryGhost">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.reddit.com/user/Panda_123321">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/SEU-CONVITE">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
 </h1>
 
 ![Snake animation](https://github.com/panda12332145/panda12332145/blob/output/github-contribution-grid-snake.svg)
 
-
 <a href="https://github.com/panda12332145/panda12332145/blob/main/sak.gif">
   <img src="https://github.com/panda12332145/panda12332145/blob/main/sak.gif" alt="Sak GIF" width="100%" height="100%" style="width:auto; height:auto"/>
 </a>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.5/>
- 
+
+---
+
+<div align="center">
+  <sub>Built with 💜 by Athos Dã Boanergis | Cybersecurity Enthusiast & Developer</sub>
 </div>
