@@ -341,6 +341,49 @@ Como estudante de cibersegurança, iniciei meu percurso no mundo da programaçã
 
 </div>
 
+---
+
+# 🏴 Platforms
+
+> Plataformas onde participo de laboratórios, CTFs, bug bounty, treinamento e pesquisas em cibersegurança.
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/athosfrog">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+<a href="https://app.hackthebox.com/users/Panda12332145">
+  <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+</a>
+
+<a href="https://hackerone.com/athosda?type=user">
+  <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/athosfrog">
+<img src="https://img.shields.io/badge/TryHackMe-athosfrog-red?style=flat-square&logo=tryhackme"/>
+</a>
+
+<a href="https://app.hackthebox.com/users/Panda12332145">
+<img src="https://img.shields.io/badge/HackTheBox-Panda12332145-9FEF00?style=flat-square&logo=hackthebox"/>
+</a>
+
+<a href="https://hackerone.com/athosda?type=user">
+<img src="https://img.shields.io/badge/HackerOne-athosda-494649?style=flat-square&logo=hackerone"/>
+</a>
+
+</div>
+
+---
+---
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
 </h1>
