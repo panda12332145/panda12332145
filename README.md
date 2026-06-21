@@ -335,7 +335,7 @@ Como estudante de cibersegurança, iniciei meu percurso no mundo da programaçã
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
 </a>
 
-<a href="https://discord.gg/SEU-CONVITE">
+<a href="https://discord.com/users/550463835631517697">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
