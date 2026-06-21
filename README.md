@@ -363,25 +363,6 @@ Como estudante de cibersegurança, iniciei meu percurso no mundo da programaçã
 
 </div>
 
-<br>
-
-<div align="center">
-
-<a href="https://tryhackme.com/p/athosfrog">
-<img src="https://img.shields.io/badge/TryHackMe-athosfrog-red?style=flat-square&logo=tryhackme"/>
-</a>
-
-<a href="https://app.hackthebox.com/users/Panda12332145">
-<img src="https://img.shields.io/badge/HackTheBox-Panda12332145-9FEF00?style=flat-square&logo=hackthebox"/>
-</a>
-
-<a href="https://hackerone.com/athosda?type=user">
-<img src="https://img.shields.io/badge/HackerOne-athosda-494649?style=flat-square&logo=hackerone"/>
-</a>
-
-</div>
-
----
 ---
 
 <h1 align="center">
