@@ -293,7 +293,7 @@ Como estudante de cibersegurança, iniciei meu percurso no mundo da programaçã
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | Programming          | Python • C • C++ • Java • JavaScript • Lua • Pascal • COBOL • Assembly x86                                                       |
 | Web                  | HTML5 • CSS3 • JavaScript • HTMX • Laravel • Node.js • Apache • Nginx                                                            |
-| Offensive Security   | Burp Suite • Metasploit • SQLMap • OWASP ZAP • Hashcat • John the Ripper • Hydra • Aircrack-ng • Gobuster • ffuf • Nmap • Netcat |
+| Offensive Security   | Burp Suite • Metasploit • SQLMap • OWASP ZAP • Hashcat • John the Ripper • Hydra • Aircrack-ng • Gobuster • ffuf • Nmap • Netcat • FlipperZero |
 | Defensive Security   | Wireshark • Wazuh • Snort • Suricata • OSSEC • Fail2ban • UFW • iptables                                                         |
 | Reverse Engineering  | Ghidra • IDA Pro • x64dbg • Binary Ninja • Radare2 • OllyDbg                                                                     |
 | Malware Analysis     | Ghidra • IDA Pro • PEStudio • Detect It Easy • Process Hacker • Procmon • Process Explorer                                       |
