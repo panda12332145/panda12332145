@@ -225,7 +225,25 @@ Como estudante de cibersegurança, iniciei meu percurso no mundo da programaçã
 
 ### 🔴 Offensive Security
 
-<a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-0066CC?style=for-the-badge"/></a> <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp_Suite-F47F24?style=for-the-badge&logo=burpsuite&logoColor=white"/></a> <a href="https://www.zaproxy.org/"><img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/></a>  <a href="https://sqlmap.org/"><img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge"/></a> <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/></a> <a href="https://github.com/ffuf/ffuf"><img src="https://img.shields.io/badge/ffuf-222222?style=for-the-badge"/></a> <a href="https://github.com/OJ/gobuster"><img src="https://img.shields.io/badge/Gobuster-444444?style=for-the-badge"/></a> <a href="https://hashcat.net/hashcat/"><img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge"/></a> <a href="https://www.openwall.com/john/"><img src="https://img.shields.io/badge/John_The_Ripper-555555?style=for-the-badge"/></a> <a href="https://www.aircrack-ng.org/"><img src="https://img.shields.io/badge/Aircrack--ng-2A6DB0?style=for-the-badge"/></a>
+<a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-0066CC?style=for-the-badge"/></a> <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp_Suite-F47F24?style=for-the-badge&logo=burpsuite&logoColor=white"/></a> 
+
+<a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp_Suite-F47F24?style=for-the-badge&logo=./icon/flipper.svg&logoColor=white"/></a>
+
+<a href="https://portswigger.net/burp"><img src="./icon/flipper.svg" width="888"/></a>
+
+
+<a href="https://www.zaproxy.org/"><img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/></a>  <a href="https://sqlmap.org/"><img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge"/></a> <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/></a> <a href="https://github.com/ffuf/ffuf"><img src="https://img.shields.io/badge/ffuf-222222?style=for-the-badge"/></a> <a href="https://github.com/OJ/gobuster"><img src="https://img.shields.io/badge/Gobuster-444444?style=for-the-badge"/></a> <a href="https://hashcat.net/hashcat/"><img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge"/></a> <a href="https://www.openwall.com/john/"><img src="https://img.shields.io/badge/John_The_Ripper-555555?style=for-the-badge"/></a> <a href="https://www.aircrack-ng.org/"><img src="https://img.shields.io/badge/Aircrack--ng-2A6DB0?style=for-the-badge"/></a>
+
+
+<p align="left">
+    <img src="./icon/flipper.svg" width="888"/>
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/>
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/>
+</p>
 
 <br>
 
