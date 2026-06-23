@@ -1,75 +1,85 @@
-<svg width="10000" height="5000" viewBox="0 0 500 250" xmlns="http://www.w3.org/2000/svg">
-  <!-- Definições de Estilo e Sombras -->
-  <defs>
-    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="2" dy="4" stdDeviation="3" flood-opacity="0.2"/>
-    </filter>
-    <linearGradient id="bodyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#e0e0e0;stop-opacity:1" />
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="28" viewBox="0 0 170 28">
+    <!-- Fundo da Badge -->
+    <rect width="170" height="28" rx="4" fill="#7C3AED"/>
 
-  <!-- Corpo Principal (Formato Ergonômico) -->
-  <rect x="50" y="60" width="400" height="130" rx="25" fill="url(#bodyGrad)" filter="url(#shadow)" stroke="#cccccc" stroke-width="1"/>
-  
-  <!-- Pinos GPIO (Topo) -->
-  <g transform="translate(100, 58)">
-    <rect x="0" y="0" width="8" height="6" rx="1" fill="#333" />
-    <rect x="15" y="0" width="8" height="6" rx="1" fill="#333" />
-    <rect x="30" y="0" width="8" height="6" rx="1" fill="#333" />
-    <rect x="45" y="0" width="8" height="6" rx="1" fill="#333" />
-    <rect x="60" y="0" width="8" height="6" rx="1" fill="#333" />
-    <rect x="75" y="0" width="8" height="6" rx="1" fill="#333" />
-    <rect x="90" y="0" width="8" height="6" rx="1" fill="#333" />
-    <rect x="105" y="0" width="8" height="6" rx="1" fill="#333" />
-  </g>
+    <!-- Ícone do Flipper Zero Escalonado -->
+    <g transform="translate(1,-4) scale(0.15)">
+        <!-- Definições de Estilo e Sombras -->
+        <defs>
+            <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+                <feDropShadow dx="2" dy="4" stdDeviation="3" flood-opacity="0.2"/>
+            </filter>
+            <linearGradient id="bodyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+                <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+                <stop offset="100%" style="stop-color:#e0e0e0;stop-opacity:1" />
+            </linearGradient>
+        </defs>
 
-  <!-- Janela do Infravermelho (Lado esquerdo superior) -->
-  <rect x="65" y="58" width="30" height="4" rx="2" fill="#1a1a1a" />
+        <!-- Corpo Principal (Formato Ergonômico) -->
+        <rect x="50" y="60" width="400" height="130" rx="25" fill="url(#bodyGrad)" filter="url(#shadow)" stroke="#cccccc" stroke-width="1"/>
+        
+        <!-- Pinos GPIO (Topo) -->
+        <g transform="translate(100, 58)">
+            <rect x="0" y="0" width="8" height="6" rx="1" fill="#333" />
+            <rect x="15" y="0" width="8" height="6" rx="1" fill="#333" />
+            <rect x="30" y="0" width="8" height="6" rx="1" fill="#333" />
+            <rect x="45" y="0" width="8" height="6" rx="1" fill="#333" />
+            <rect x="60" y="0" width="8" height="6" rx="1" fill="#333" />
+            <rect x="75" y="0" width="8" height="6" rx="1" fill="#333" />
+            <rect x="90" y="0" width="8" height="6" rx="1" fill="#333" />
+            <rect x="105" y="0" width="8" height="6" rx="1" fill="#333" />
+        </g>
 
-  <!-- Moldura da Tela (Black Glass) -->
-  <rect x="70" y="75" width="200" height="100" rx="12" fill="#1a1a1a" />
-  
-  <!-- Tela LCD (Laranja Característico) -->
-  <rect x="80" y="85" width="180" height="80" rx="4" fill="#FF8C00" />
-  
-  <!-- Interface da Tela (O Golfinho e Texto) -->
-  <g opacity="0.8">
-    <!-- Golfinho Pixelado Estilizado -->
-    <path d="M110 120 Q120 100 150 115 Q170 125 180 120 L185 130 Q160 145 120 135 Z" fill="#4d2b00" />
-    <circle cx="125" cy="118" r="1.5" fill="#FF8C00" /> <!-- Olho -->
-    <text x="195" y="115" font-family="monospace" font-size="12" font-weight="bold" fill="#4d2b00">FLIPPER</text>
-    <text x="195" y="135" font-family="monospace" font-size="10" fill="#4d2b00">v0.102.3</text>
-    <!-- Barras de status -->
-    <rect x="85" y="90" width="170" height="2" fill="#4d2b00" opacity="0.3" />
-  </g>
+        <!-- Janela do Infravermelho (Lado esquerdo superior) -->
+        <rect x="65" y="58" width="30" height="4" rx="2" fill="#1a1a1a" />
 
-  <!-- Painel de Controle (Lado Direito) -->
-  <g transform="translate(350, 125)">
-    <!-- D-Pad Circular Laranja -->
-    <circle cx="0" cy="0" r="42" fill="#FF8C00" stroke="#e67e00" stroke-width="1" />
-    
-    <!-- Botão OK Central -->
-    <circle cx="0" cy="0" r="16" fill="#e67e00" stroke="#ffffff" stroke-width="1.5" />
-    
-    <!-- Setas do D-Pad -->
-    <path d="M0 -32 L6 -24 L-6 -24 Z" fill="white" /> <!-- Cima -->
-    <path d="M0 32 L6 24 L-6 24 Z" fill="white" />  <!-- Baixo -->
-    <path d="M-32 0 L-24 -6 L-24 6 Z" fill="white" /> <!-- Esquerda -->
-    <path d="M32 0 L24 -6 L24 6 Z" fill="white" />  <!-- Direita -->
-  </g>
+        <!-- Moldura da Tela (Black Glass) -->
+        <rect x="70" y="75" width="200" height="100" rx="12" fill="#1a1a1a" />
+        
+        <!-- Tela LCD (Laranja Característico) -->
+        <rect x="80" y="85" width="180" height="80" rx="4" fill="#FF8C00" />
+        
+        <!-- Interface da Tela (O Golfinho e Texto) -->
+        <g opacity="0.8">
+            <path d="M110 120 Q120 100 150 115 Q170 125 180 120 L185 130 Q160 145 120 135 Z" fill="#4d2b00" />
+            <circle cx="125" cy="118" r="1.5" fill="#FF8C00" />
+            <text x="195" y="115" font-family="monospace" font-size="12" font-weight="bold" fill="#4d2b00">FLIPPER</text>
+            <text x="195" y="135" font-family="monospace" font-size="10" fill="#4d2b00">v0.102.3</text>
+            <rect x="85" y="90" width="170" height="2" fill="#4d2b00" opacity="0.3" />
+        </g>
 
-  <!-- Botão Voltar (Círculo cinza à esquerda do D-Pad) -->
-  <circle cx="295" cy="125" r="14" fill="#4a4a4a" stroke="#333" stroke-width="1" />
-  <path d="M291 121 L299 129 M299 121 L291 129" stroke="white" stroke-width="2.5" stroke-linecap="round" />
+        <!-- Painel de Controle (Lado Direito) -->
+        <g transform="translate(350, 125)">
+            <circle cx="0" cy="0" r="42" fill="#FF8C00" stroke="#e67e00" stroke-width="1" />
+            <circle cx="0" cy="0" r="16" fill="#e67e00" stroke="#ffffff" stroke-width="1.5" />
+            <path d="M0 -32 L6 -24 L-6 -24 Z" fill="white" />
+            <path d="M0 32 L6 24 L-6 24 Z" fill="white" />
+            <path d="M-32 0 L-24 -6 L-24 6 Z" fill="white" />
+            <path d="M32 0 L24 -6 L24 6 Z" fill="white" />
+        </g>
 
-  <!-- Detalhes de Texto no Corpo -->
-  <text x="350" y="185" font-family="Arial" font-size="9" fill="#999" text-anchor="middle" font-weight="bold">FLIPPER ZERO</text>
+        <!-- Botão Voltar -->
+        <circle cx="295" cy="125" r="14" fill="#4a4a4a" stroke="#333" stroke-width="1" />
+        <path d="M291 121 L299 129 M299 121 L291 129" stroke="white" stroke-width="2.5" stroke-linecap="round" />
 
-  <!-- Entrada de Cordão (Lanyard) -->
-  <rect x="425" y="150" width="12" height="25" rx="6" fill="none" stroke="#ccc" stroke-width="2" />
-  
-  <!-- Porta USB-C (Lateral Direita) -->
-  <rect x="445" y="110" width="6" height="30" rx="3" fill="#bbb" />
+        <!-- Detalhes de Texto no Corpo -->
+        <text x="350" y="185" font-family="Arial" font-size="9" fill="#999" text-anchor="middle" font-weight="bold">FLIPPER ZERO</text>
+
+        <!-- Entrada de Cordão (Lanyard) -->
+        <rect x="425" y="150" width="12" height="25" rx="6" fill="none" stroke="#ccc" stroke-width="2" />
+        
+        <!-- Porta USB-C (Lateral Direita) -->
+        <rect x="445" y="110" width="6" height="30" rx="3" fill="#bbb" />
+    </g>
+
+    <!-- Texto da Badge -->
+    <text
+        x="90"
+        y="18"
+        fill="white"
+        font-family="Verdana"
+        font-size="11"
+        font-weight="700">
+        Flipper Zero
+    </text>
 </svg>
