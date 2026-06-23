@@ -66,6 +66,7 @@ Como estudante de cibersegurança, iniciei meu percurso no mundo da programaçã
 | 🔵 BTJA | ✅ Certified | ![](https://geps.dev/progress/100) |
 
 ---
+
 ## 🔬 Featured Projects
 
 <table>
@@ -74,12 +75,16 @@ Como estudante de cibersegurança, iniciei meu percurso no mundo da programaçã
       <b>Tux Project - Malware Research</b>
     </td>
     <td>
-      Projeto de pesquisa em desenvolvimento de malware educacional e análise de segurança ofensiva. Implementa técnicas de persistência, evasão e C2 (Command and Control) para ambientes controlados de teste. Inclui mapa global de máquinas infectadas em ambiente de laboratório.<br>
-      <sub>Python, C++, PowerShell, Network Security, Reverse Engineering</sub>
+      Projeto de pesquisa em desenvolvimento de malware educacional e análise de segurança ofensiva. Implementa técnicas de persistência, evasão e C2 (Command and Control) para ambientes controlados de teste. Inclui mapa global de máquinas infectadas em ambiente de laboratório.<br><br>
+      <img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/C%2B%2B-7C3AED?style=flat-square&logo=cplusplus&logoColor=white">
+      <img src="https://img.shields.io/badge/PowerShell-7C3AED?style=flat-square&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgcng9IjgiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIvPjxwYXRoIGZpbGw9IndoaXRlIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTTggMTZsMjQgMTZMOCA0OHoiLz48cmVjdCBmaWxsPSJ3aGl0ZSIgeD0iMzYiIHk9IjQ0IiB3aWR0aD0iMjAiIGhlaWdodD0iNiIgcng9IjIiLz48L3N2Zz4=">
+      <img src="https://img.shields.io/badge/Network%20Security-7C3AED?style=flat-square&logo=wireshark&logoColor=white">
+      <img src="https://img.shields.io/badge/Reverse%20Engineering-7C3AED?style=flat-square&logo=gnu&logoColor=white">
     </td>
     <td align="center">
       <a href="https://map-of-machines-infected-by-my-tuxpj.netlify.app/">
-        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320"/>
       </a>
     </td>
   </tr>
@@ -89,12 +94,16 @@ Como estudante de cibersegurança, iniciei meu percurso no mundo da programaçã
       <b>ShadowNet Infostealer</b>
     </td>
     <td>
-      Malware Windows experimental para estudo de segurança ofensiva. Coleta credenciais, perfis Wi-Fi, arquivos e exfiltra dados via FTP. Implementa módulos de perturbação e automação usando apenas scripts nativos (BAT/VBScript). Arquitetura modular com persistência e exfiltração.<br>
-      <sub>Batchfile, VBScript, Windows Internals, Offensive Security</sub>
+      Malware Windows experimental para estudo de segurança ofensiva. Coleta credenciais, perfis Wi-Fi, arquivos e exfiltra dados via FTP. Implementa módulos de perturbação e automação usando apenas scripts nativos (BAT/VBScript). Arquitetura modular com persistência e exfiltração.<br><br>
+      <img src="https://img.shields.io/badge/Batch-7C3AED?style=flat-square&logo=gnubash&logoColor=white">
+      <img src="https://img.shields.io/badge/VBScript-7C3AED?style=flat-square&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik02LjY3LDcuODM2LDksMTguOTE1LDExLjMzNiw3LjgzNkgxNkwxMS4zMzYsMjQuMTY0SDYuNjcyTDIsNy44MzZaIi8+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOC4zMzEsNy44MzZoNy42YTQuMDgsNC4wOCwwLDAsMSwyLjksMS43NDksMy43OCwzLjc4LDAsMCwxLC41NzEsMi4wNCwzLjk4NSwzLjk4NSwwLDAsMS0uNTcxLDIuMDM0LDQuMTA4LDQuMTA4LDAsMCwxLTIuMzQxLDEuNzYzLDQuMSw0LjEsMCwwLDEsMi45MjksMS43NTYsMy44LDMuOCwwLDAsMSwuNTgsMi4xLDQuNjYzLDQuNjYzLDAsMCwxLS41NzksMi41NDYsNS4wNDcsNS4wNDcsMCwwLDEtMy41LDIuMzM4SDE4LjMzMVpNMjMsMTQuMjUyaDEuMTY2YTEuNzU0LDEuNzU0LDAsMCwwLDAtMy41SDIzWm0wLDdIMjQuMzlhMi4wNDcsMi4wNDcsMCwwLDAsMC00LjA4OUgyM1oiLz48L3N2Zz4=">
+      <img src="https://img.shields.io/badge/Windows%20Internals-7C3AED?style=flat-square&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4OCA4OCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDEyLjQgMzUuNyA3LjV2MzQuMkgwem0zOS43LTQuOUw4OCAwdjQxLjdIMzkuN3pNMCA0Ni4zaDM1Ljd2MzQuMkwwIDc1LjZ6TTM5LjcgNDYuM0g4OFY4OEwzOS43IDgzLjF6Ii8+PC9zdmc+">
+      <img src="https://img.shields.io/badge/Offensive%20Security-7C3AED?style=flat-square&logo=kalilinux&logoColor=white">
+      <img src="https://img.shields.io/badge/Red%20Team-7C3AED?style=flat-square&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48ZyBpZD0iSGFja2VyX2Fub255bW91cyI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00NzUuMzU3MSw0MTMuMjRhNjkuOSw2OS45LDAsMCwwLTM5Ljg4NDUtNTcuNDQwN2wtMzkuOTI4Ny0xOC43OTg3LDIxLjU3OTEtNDQuNTYyMWE4OS40NTI3LDg5LjQ1MjcsMCwwLDAsLjAwMjUtNzcuOTY4NEwzNTkuNzk4OCw5Ni4wNjgyQzMxNy43OTMzLDkuMzEwNSwxOTQuMjA4OCw5LjMxLDE1Mi4yMDE5LDk2LjA2NjZMOTQuODcsMjE0LjQ3NDVhODkuNDQ1LDg5LjQ0NSwwLDAsMCwuMDA0OSw3Ny45NjkybDIxLjU4MSw0NC41NTY5TDc2LjUyNTYsMzU1LjhhNjkuODk4LDY5Ljg5OCwwLDAsMC0zOS44ODMxLDU3LjQzOWwtMy42MTIsNDMuMzc3M2EyMi41MTU3LDIyLjUxNTcsMCwwLDAsMjIuNDM4MSwyNC4zODQySDQ1Ni41MzM3QTIyLjUxMzQsMjIuNTEzNCwwLDAsMCw0NzguOTcsNDU2LjYxODdaTTM2NCwyNjAuMTIwNWExMDcuOTc0NiwxMDcuOTc0NiwwLDAsMS05OC4xMDM1LDEwNy41VjM0MS4xMjQ5YTkuODk2NSw5Ljg5NjUsMCwwLDAtMTkuNzkzLDB2MjYuNDk1N0ExMDcuOTc0NiwxMDcuOTc0NiwwLDAsMSwxNDgsMjYwLjEyMDVWMjAzLjQ0YTI4LjgxOTIsMjguODE5MiwwLDAsMSwyOC44MTkzLTI4LjgxOTNIMzM1LjE4MDZBMjguODE5MywyOC44MTkzLDAsMCwxLDM2NCwyMDMuNDRaIi8+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zMjEuODIxMywyNzUuOTk3OWE5LjkxLDkuOTEsMCwwLDAtMTIuMzEzNSw2LjY3MDksMTMuNTc3NiwxMy41Nzc2LDAsMCwxLTI2LjAxNTYsMCw5LjkwMjYsOS45MDI2LDAsMSwwLTE4Ljk4NDQsNS42NDI2LDMzLjM4NzcsMzMuMzg3NywwLDAsMCw2My45ODQ0LDBBOS45MTI1LDkuOTEyNSwwLDAsMCwzMjEuODIxMywyNzUuOTk3OVoiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTI0MC44MjEzLDI3NS45OTc5YTkuODkwOCw5Ljg5MDgsMCwwLDAtMTIuMzEzNSw2LjY3MDksMTMuNTc3NiwxMy41Nzc2LDAsMCwxLTI2LjAxNTYsMCw5LjkwMjYsOS45MDI2LDAsMSwwLTE4Ljk4NDQsNS42NDI2LDMzLjM4NzcsMzMuMzg3NywwLDAsMCw2My45ODQ0LDBBOS45MTI1LDkuOTEyNSwwLDAsMCwyNDAuODIxMywyNzUuOTk3OVoiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTMxOSwyMjcuNDM4NEgyODNhOS44OTY1LDkuODk2NSwwLDEsMCwwLDE5Ljc5MjloMzZhOS44OTY1LDkuODk2NSwwLDEsMCwwLTE5Ljc5MjlaIi8+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOTMsMjQ3LjIzMTNoMzZhOS44OTY1LDkuODk2NSwwLDEsMCwwLTE5Ljc5MjlIMTkzYTkuODk2NSw5Ljg5NjUsMCwxLDAsMCwxOS43OTI5WiIvPjwvZz48L3N2Zz4=">
     </td>
     <td align="center">
       <a href="https://github.com/panda12332145/ShadowNetInfostealer">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320"/>
       </a>
     </td>
   </tr>
@@ -104,12 +113,16 @@ Como estudante de cibersegurança, iniciei meu percurso no mundo da programaçã
       <b>PandaOS</b>
     </td>
     <td>
-      Sistema operacional x86-64 desenvolvido 100% do zero. Inclui bootloader em múltiplos estágios, kernel, drivers, sistema de arquivos customizado (PandaFS) e escalonador. Escrito em Assembly x86-64, C++ e Pascal.<br>
-      <sub>Assembly x86, C++, Pascal, OS Development, Low-Level</sub>
+      Sistema operacional x86-64 desenvolvido 100% do zero. Inclui bootloader em múltiplos estágios, kernel, drivers, sistema de arquivos customizado (PandaFS) e escalonador. Escrito em Assembly x86-64, C++ e Pascal.<br><br>
+      <img src="https://img.shields.io/badge/Assembly%20x86--64-7C3AED?style=flat-square&logo=intel&logoColor=white">
+      <img src="https://img.shields.io/badge/C%2B%2B-7C3AED?style=flat-square&logo=cplusplus&logoColor=white">
+      <img src="https://img.shields.io/badge/Pascal-7C3AED?style=flat-square&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01IDFoN2w0IDR2MTRINVpNMTIgMXY0aDRNNyAxMGg2TTcgMTNoNiIvPjwvc3ZnPg==">
+      <img src="https://img.shields.io/badge/OS%20Development-7C3AED?style=flat-square&logo=linux&logoColor=white">
+      <img src="https://img.shields.io/badge/Low--Level-7C3AED?style=flat-square&logo=intel&logoColor=white">
     </td>
     <td align="center">
       <a href="https://github.com/panda12332145/PandaOS">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320"/>
       </a>
     </td>
   </tr>
@@ -119,12 +132,16 @@ Como estudante de cibersegurança, iniciei meu percurso no mundo da programaçã
       <b>Medusa Brute Force Lab</b>
     </td>
     <td>
-      Laboratório prático completo de pentesting focado em força bruta. Simulações controladas com Kali Linux, Medusa, Metasploitable 2 e DVWA. Documentação de FTP brute-force, SMB enumeration, password spraying e estratégias de mitigação.<br>
-      <sub>Kali Linux, Medusa, Metasploit, Nmap, Shell</sub>
+      Laboratório prático completo de pentesting focado em força bruta. Simulações controladas com Kali Linux, Medusa, Metasploitable 2 e DVWA. Documentação de FTP brute-force, SMB enumeration, password spraying e estratégias de mitigação.<br><br>
+      <img src="https://img.shields.io/badge/Parrot%20OS-7C3AED?style=flat-square&logo=parrotsecurity&logoColor=white">
+      <img src="https://img.shields.io/badge/Medusa-7C3AED?style=flat-square&logo=kalilinux&logoColor=white">
+      <img src="https://img.shields.io/badge/Metasploit-7C3AED?style=flat-square&logo=metasploit&logoColor=white">
+      <img src="https://img.shields.io/badge/Nmap-7C3AED?style=flat-square&logo=openwrt&logoColor=white">
+      <img src="https://img.shields.io/badge/Shell-7C3AED?style=flat-square&logo=gnubash&logoColor=white">
     </td>
     <td align="center">
       <a href="https://github.com/panda12332145/Medusa-Brute-Force-Lab">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320"/>
       </a>
     </td>
   </tr>
@@ -134,12 +151,15 @@ Como estudante de cibersegurança, iniciei meu percurso no mundo da programaçã
       <b>CyberPando</b>
     </td>
     <td>
-      Ferramenta interativa em Python para conscientização de segurança digital em ambientes corporativos. Analisa links suspeitos, e-mails, dispositivos bootáveis desconhecidos e fornece orientações contra ransomware. Interface rica com Rich.<br>
-      <sub>Python, Rich, Requests, Cybersecurity Awareness</sub>
+      Ferramenta interativa em Python para conscientização de segurança digital em ambientes corporativos. Analisa links suspeitos, e-mails, dispositivos bootáveis desconhecidos e fornece orientações contra ransomware. Interface rica com Rich.<br><br>
+      <img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Rich-7C3AED?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Requests-7C3AED?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Cybersecurity%20Awareness-7C3AED?style=flat-square&logo=securityscorecard&logoColor=white">
     </td>
     <td align="center">
       <a href="https://github.com/panda12332145/CyberPando">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320"/>
       </a>
     </td>
   </tr>
@@ -149,12 +169,16 @@ Como estudante de cibersegurança, iniciei meu percurso no mundo da programaçã
       <b>MAAPC - Hardware Analysis</b>
     </td>
     <td>
-      Módulo avançado para análise de processadores e hardware. Coleta dados em tempo real de CPU/GPU, temperatura, cache, instruções (SSE/AVX), virtualização e topologia. Integra física teórica com programação.<br>
-      <sub>Python, psutil, Hardware, Physics, Monitoring</sub>
+      Módulo avançado para análise de processadores e hardware. Coleta dados em tempo real de CPU/GPU, temperatura, cache, instruções (SSE/AVX), virtualização e topologia. Integra física teórica com programação.<br><br>
+      <img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/psutil-7C3AED?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Hardware-7C3AED?style=flat-square&logo=intel&logoColor=white">
+      <img src="https://img.shields.io/badge/Physics-7C3AED?style=flat-square&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iNSIgZmlsbD0id2hpdGUiLz48ZWxsaXBzZSBjeD0iMzIiIGN5PSIzMiIgcng9IjI4IiByeT0iMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMyIvPjxlbGxpcHNlIGN4PSIzMiIgY3k9IjMyIiByeD0iMjgiIHJ5PSIxMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIzIiB0cmFuc2Zvcm09InJvdGF0ZSg2MCAzMiAzMikiLz48ZWxsaXBzZSBjeD0iMzIiIGN5PSIzMiIgcng9IjI4IiByeT0iMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMyIgdHJhbnNmb3JtPSJyb3RhdGUoMTIwIDMyIDMyKSIvPjwvc3ZnPg==">
+      <img src="https://img.shields.io/badge/Monitoring-7C3AED?style=flat-square&logo=grafana&logoColor=white">
     </td>
     <td align="center">
       <a href="https://github.com/panda12332145/MAAPC">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320" />
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="45" width="320"/>
       </a>
     </td>
   </tr>
@@ -201,7 +225,7 @@ Como estudante de cibersegurança, iniciei meu percurso no mundo da programaçã
 
 ### 🔴 Offensive Security
 
-<a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-0066CC?style=for-the-badge"/></a> <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp_Suite-F47F24?style=for-the-badge&logo=burpsuite&logoColor=white"/></a> <a href="https://www.zaproxy.org/"><img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/></a> <a href="https://sqlmap.org/"><img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge"/></a> <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/></a> <a href="https://github.com/ffuf/ffuf"><img src="https://img.shields.io/badge/ffuf-222222?style=for-the-badge"/></a> <a href="https://github.com/OJ/gobuster"><img src="https://img.shields.io/badge/Gobuster-444444?style=for-the-badge"/></a> <a href="https://hashcat.net/hashcat/"><img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge"/></a> <a href="https://www.openwall.com/john/"><img src="https://img.shields.io/badge/John_The_Ripper-555555?style=for-the-badge"/></a> <a href="https://www.aircrack-ng.org/"><img src="https://img.shields.io/badge/Aircrack--ng-2A6DB0?style=for-the-badge"/></a>
+<a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-0066CC?style=for-the-badge"/></a> <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp_Suite-F47F24?style=for-the-badge&logo=burpsuite&logoColor=white"/></a> <a href="https://www.zaproxy.org/"><img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/></a>  <a href="https://sqlmap.org/"><img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge"/></a> <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/></a> <a href="https://github.com/ffuf/ffuf"><img src="https://img.shields.io/badge/ffuf-222222?style=for-the-badge"/></a> <a href="https://github.com/OJ/gobuster"><img src="https://img.shields.io/badge/Gobuster-444444?style=for-the-badge"/></a> <a href="https://hashcat.net/hashcat/"><img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge"/></a> <a href="https://www.openwall.com/john/"><img src="https://img.shields.io/badge/John_The_Ripper-555555?style=for-the-badge"/></a> <a href="https://www.aircrack-ng.org/"><img src="https://img.shields.io/badge/Aircrack--ng-2A6DB0?style=for-the-badge"/></a>
 
 <br>
 
