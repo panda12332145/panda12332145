@@ -22,9 +22,21 @@
 <h4 align="left">🌟Atualmente, estou cursando Análise e Desenvolvimento de Sistemas Estácio, onde aprofundo meus conhecimentos em áreas como cibersegurança, redes e programação. Além dos estudos acadêmicos, estou constantemente aprimorando minhas habilidades em hacking ético, engenharia reversa e sistemas de segurança. Meu objetivo é me tornar um especialista na área, focando em contribuir para a pesquisa e inovação tecnológica. Busco uma base sólida para alcançar a excelência no meu campo e conquistar independência financeira. 💻🔐💸.
 <br> </h4>
 
+
+
 <a href="https://i-love-u-my-proton.netlify.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/panda12332145/panda12332145/main/base.svg" alt="Dlo GIF" width="300px"/>
 </a>
+
+<div style="height:20px;"></div>
+
+<a href="https://open.spotify.com/user/31m7o7sfwke6wl3hwxseirk4ffmy/">
+    <img src="./icon/Beethoven.svg" width="300">
+</a>
+
+
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
 
